@@ -6,7 +6,10 @@ body {
 
 .wrapper {
     width: 100%;
-    background-color: black; 
+    background-color: grey; 
     border: white solid 30px;
     height:700px;
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
 }
