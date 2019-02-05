@@ -1,0 +1,12 @@
+body {
+    width: 100%;
+    
+    
+}
+
+.wrapper {
+    width: 100%;
+    background-color: black; 
+    border: white solid 30px;
+    height:700px;
+}
